@@ -7,7 +7,6 @@
 
 
 class clockType {
-
 private:
      int hr, min, sec;
 public:
@@ -19,10 +18,6 @@ public:
     int getHour();
     int getMinute();
     int getSecond();
-
-
-
-
 };
 
 
